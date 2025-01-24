@@ -1,25 +1,19 @@
-[2025-01-24T16:59:14.720Z] info  code-server 4.96.2 08cbdfbdf11925e8a14ee03de97b942bba7e8a94
-[2025-01-24T16:59:14.740Z] info  Using user-data-dir /root/.local/share/code-server
-[2025-01-24T16:59:14.801Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
-[2025-01-24T16:59:14.801Z] info  HTTPS server listening on https://0.0.0.0/
-[2025-01-24T16:59:14.802Z] info    - Authentication is enabled
-[2025-01-24T16:59:14.802Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
-[2025-01-24T16:59:14.802Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
-[2025-01-24T16:59:14.802Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
-[17:00:37] 
+[2025-01-24T18:41:31.408Z] info  code-server 4.96.2 08cbdfbdf11925e8a14ee03de97b942bba7e8a94
+[2025-01-24T18:41:31.409Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-01-24T18:41:31.452Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-01-24T18:41:31.452Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-01-24T18:41:31.452Z] info    - Authentication is enabled
+[2025-01-24T18:41:31.452Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-01-24T18:41:31.453Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-01-24T18:41:31.453Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[18:41:39] 
 
 
 
 
-[17:00:37] Extension host agent started.
-File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[18:41:39] Extension host agent started.
 File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
-[17:01:00] [<unknown>][4e4caebe][ManagementConnection] New connection established.
-[17:01:03] [<unknown>][d11d9533][ExtensionHostConnection] New connection established.
-[17:01:03] [<unknown>][d11d9533][ExtensionHostConnection] <2387> Launched Extension Host Process.
-Error: Unexpected SIGPIPE
-    at process.<anonymous> (file:///var/app/code-server/lib/vscode/out/server-main.js:207:7980)
-    at process.emit (node:events:530:35)
-[17:01:04] Error: Unexpected SIGPIPE
-    at process.<anonymous> (file:///var/app/code-server/lib/vscode/out/server-main.js:188:1327)
-    at process.emit (node:events:530:35)
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[18:41:43] [<unknown>][da74e759][ManagementConnection] New connection established.
+[18:41:46] [<unknown>][13cafb48][ExtensionHostConnection] New connection established.
+[18:41:46] [<unknown>][13cafb48][ExtensionHostConnection] <24318> Launched Extension Host Process.
